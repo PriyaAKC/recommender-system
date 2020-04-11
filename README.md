@@ -11,4 +11,4 @@ We want to learn how the algorithms can effectively recommend our users to the m
 
 * The data size is sufficiently large with 1,000,209 anonymous ratings of 3,706 movies made by 6,040 MovieLens users who joined MovieLens in 2000.
 
-* The data can be downloaded from: `https://grouplens.org/datasets/movielens/`
+* The data can be downloaded from: https://grouplens.org/datasets/movielens/
